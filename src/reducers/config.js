@@ -3,7 +3,7 @@ import BigNumber from 'bignumber.js';
 
 const initialState = Map({
   WETH: {
-    address: '0x4a817489643A89a1428b2DD441c3fbe4DBf44789',
+    address: '0x7Cb242e4f8EE3FE4F1f244209c05B794F192353E',
     symbol: 'WETH',
     decimals: 18
   },
